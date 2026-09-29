@@ -1,0 +1,6 @@
+{
+  "name": "Compiler Explanation Assistant",
+  "description": "Interactive AI compiler assistant to explain compiler theory, compilation phases, ASTs, optimization, and compiler diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
